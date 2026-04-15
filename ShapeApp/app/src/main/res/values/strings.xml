@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">입체도형 탐험</string>
+    <string name="explore">도형 탐색</string>
+    <string name="net">전개도</string>
+    <string name="game">맞추기 게임</string>
+    <string name="faces">면</string>
+    <string name="edges">모서리</string>
+    <string name="vertices">꼭짓점</string>
+</resources>

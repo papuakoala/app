@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.ShapeApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF6B35</item>
+        <item name="colorPrimaryVariant">#E85D04</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#4CC9F0</item>
+        <item name="android:windowBackground">#FFF8F0</item>
+    </style>
+</resources>

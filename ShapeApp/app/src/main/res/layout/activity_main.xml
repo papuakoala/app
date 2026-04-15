@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFF8F0"
+    android:gravity="center"
+    android:padding="32dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="입체도형 탐험"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:textColor="#FF6B35"
+        android:layout_marginBottom="48dp"/>
+
+    <Button
+        android:id="@+id/btnExplore"
+        android:layout_width="280dp"
+        android:layout_height="80dp"
+        android:text="🔵 도형 탐색"
+        android:textSize="22sp"
+        android:backgroundTint="#FF6B35"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btnNet"
+        android:layout_width="280dp"
+        android:layout_height="80dp"
+        android:text="📐 전개도"
+        android:textSize="22sp"
+        android:backgroundTint="#4CC9F0"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btnGame"
+        android:layout_width="280dp"
+        android:layout_height="80dp"
+        android:text="🎮 맞추기 게임"
+        android:textSize="22sp"
+        android:backgroundTint="#06D6A0"/>
+
+</LinearLayout>
